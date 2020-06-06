@@ -1,0 +1,19 @@
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.exe
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.deps.json
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.runtimeconfig.json
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.runtimeconfig.dev.json
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.dll
+C:\Users\CocaTunes\Documents\The Virus\The Virus\bin\Debug\netcoreapp3.1\The Virus.pdb
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.csprojAssemblyReference.cache
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus_MarkupCompile.cache
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus_MarkupCompile.lref
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.g.resources
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.csproj.CoreCompileInputs.cache
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.AssemblyInfoInputs.cache
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.AssemblyInfo.cs
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.dll
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.pdb
+C:\Users\CocaTunes\Documents\The Virus\The Virus\obj\Debug\netcoreapp3.1\The Virus.genruntimeconfig.cache
